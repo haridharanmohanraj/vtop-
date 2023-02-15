@@ -1,0 +1,30 @@
+
+.tb1 {
+    background-color:rgb(223, 222, 222);
+    border: 1px solid rgb(126, 124, 124);
+    text-align: center;
+    padding: 4px;
+}
+.tb1 thead{
+background-color: #3c8dbc;
+ color: #fff;
+}
+.tb1 tbody{
+   
+    border: 1px solid rgb(169, 162, 162);
+}
+#one{
+    background-color: #e2e2e2;
+}
+#two{
+    background-color:#CCCCFF;
+}
+#three{
+    background-color: #99CCFF;
+}
+#four{
+    background-color: #f9efa4;
+}
+#five{
+    background-color:#CCFF33;
+}
